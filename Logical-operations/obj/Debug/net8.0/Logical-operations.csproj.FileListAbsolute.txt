@@ -1,0 +1,14 @@
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\obj\Debug\net8.0\Logical-operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\obj\Debug\net8.0\Logical-operations.AssemblyInfoInputs.cache
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\obj\Debug\net8.0\Logical-operations.AssemblyInfo.cs
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\obj\Debug\net8.0\Logical-operations.csproj.CoreCompileInputs.cache
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\bin\Debug\net8.0\Logical-operations.exe
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\bin\Debug\net8.0\Logical-operations.deps.json
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\bin\Debug\net8.0\Logical-operations.runtimeconfig.json
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\bin\Debug\net8.0\Logical-operations.dll
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\bin\Debug\net8.0\Logical-operations.pdb
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\obj\Debug\net8.0\Logical-operations.dll
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\obj\Debug\net8.0\refint\Logical-operations.dll
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\obj\Debug\net8.0\Logical-operations.pdb
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\obj\Debug\net8.0\Logical-operations.genruntimeconfig.cache
+C:\Users\m2k4\source\repos\Logical-operations\Logical-operations\obj\Debug\net8.0\ref\Logical-operations.dll
