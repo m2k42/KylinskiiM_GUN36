@@ -1,0 +1,14 @@
+C:\Users\m2k4\source\repos\memory\memory\bin\Debug\net8.0\memory.exe
+C:\Users\m2k4\source\repos\memory\memory\bin\Debug\net8.0\memory.deps.json
+C:\Users\m2k4\source\repos\memory\memory\bin\Debug\net8.0\memory.runtimeconfig.json
+C:\Users\m2k4\source\repos\memory\memory\bin\Debug\net8.0\memory.dll
+C:\Users\m2k4\source\repos\memory\memory\bin\Debug\net8.0\memory.pdb
+C:\Users\m2k4\source\repos\memory\memory\obj\Debug\net8.0\memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m2k4\source\repos\memory\memory\obj\Debug\net8.0\memory.AssemblyInfoInputs.cache
+C:\Users\m2k4\source\repos\memory\memory\obj\Debug\net8.0\memory.AssemblyInfo.cs
+C:\Users\m2k4\source\repos\memory\memory\obj\Debug\net8.0\memory.csproj.CoreCompileInputs.cache
+C:\Users\m2k4\source\repos\memory\memory\obj\Debug\net8.0\memory.dll
+C:\Users\m2k4\source\repos\memory\memory\obj\Debug\net8.0\refint\memory.dll
+C:\Users\m2k4\source\repos\memory\memory\obj\Debug\net8.0\memory.pdb
+C:\Users\m2k4\source\repos\memory\memory\obj\Debug\net8.0\memory.genruntimeconfig.cache
+C:\Users\m2k4\source\repos\memory\memory\obj\Debug\net8.0\ref\memory.dll
